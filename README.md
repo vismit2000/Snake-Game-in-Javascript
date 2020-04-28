@@ -9,6 +9,6 @@ A simple snake game developed using OOP concepts in Javascript
 3. Eating Bomb results in GAME OVER
 4. Strawberry, Mango and Bomb disappear after some time if not consumed.
 
-## Game Interfaces
+## Game Interface
 
 ![Game_Interface](./Game_Interface.png?raw=true "Game_Interface")
